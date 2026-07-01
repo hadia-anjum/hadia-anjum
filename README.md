@@ -228,11 +228,11 @@ Joining FlyRank AI's engineering team to work at the intersection of large langu
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/hadia-anjum/hadia-anjum/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](assets/snake.svg)
 
 </div>
 
-> **Setup:** The workflow below generates the snake automatically every day and publishes it to the `output` branch.
+> **Setup:** The snake below is committed in the repo, so it renders immediately. The workflow is optional if you later want a contribution-based version.
 
 
 ```yaml
