@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Hadia%20Anjum&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Software%20Engineer%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18)
+![Profile header](assets/header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI+Automation+Workflows+with+n8n+%26+CrewAI;Full-Stack+Engineer+%7C+React+%2B+Next.js+%2B+Node.js;Cross-Platform+Mobile+Developer+with+Flutter;Backend+AI+Engineering+Intern+%40+FlyRank+AI;Shipping+Products+from+Architecture+to+Deployment)](https://git.io/typing-svg)
 
@@ -232,7 +232,8 @@ Joining FlyRank AI's engineering team to work at the intersection of large langu
 
 </div>
 
-> **Setup:** To activate the snake, create `.github/workflows/snake.yml` in your profile repo with the content below, then push. It will auto-regenerate every day.
+> **Setup:** The workflow below generates the snake automatically every day and publishes it to the `output` branch.
+
 
 ```yaml
 # .github/workflows/snake.yml

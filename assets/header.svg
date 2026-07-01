@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Hadia Anjum profile header</title>
+  <desc id="desc">Dark gradient banner for a GitHub profile README.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="55%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1f1147"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="text" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#e9d5ff"/>
+      <stop offset="50%" stop-color="#c084fc"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="28" fill="url(#glow)"/>
+  <circle cx="1020" cy="76" r="110" fill="#7c3aed" fill-opacity="0.10"/>
+  <circle cx="180" cy="300" r="140" fill="#a855f7" fill-opacity="0.08"/>
+  <path d="M0 284C140 228 260 214 408 244C560 275 678 332 824 322C968 312 1080 252 1200 218V360H0Z" fill="#0b1020" fill-opacity="0.85"/>
+  <text x="600" y="160" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="66" font-weight="700" letter-spacing="1" fill="url(#text)">Hadia Anjum</text>
+  <text x="600" y="220" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="500" fill="#e5e7eb">AI &amp; Software Engineer | Full-Stack &amp; Mobile Developer</text>
+  <text x="600" y="258" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="18" fill="#c4b5fd" opacity="0.9">React • Next.js • Flutter • FastAPI • n8n</text>
+</svg>
