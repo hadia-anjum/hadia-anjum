@@ -189,31 +189,6 @@ Joining FlyRank AI's engineering team to work at the intersection of large langu
 
 ---
 
-## ◈ GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadia-anjum&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&icon_color=7C3AED&text_color=C4B5FD&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadia-anjum&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0D1A&title_color=A855F7&text_color=C4B5FD&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=hadia-anjum&theme=midnight-purple&hide_border=true&background=0D0D1A&ring=7C3AED&fire=A855F7&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=6D28D9&currStreakNum=A855F7&sideNums=8B5CF6" />
-
-</div>
-
----
-
-## ◈ GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=hadia-anjum&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## ◈ Contribution Activity
 
 <div align="center">
@@ -231,36 +206,6 @@ Joining FlyRank AI's engineering team to work at the intersection of large langu
 ![Snake animation](assets/snake.svg)
 
 </div>
-
-> **Setup:** The snake below is committed in the repo, so it renders immediately. The workflow is optional if you later want a contribution-based version.
-
-
-```yaml
-# .github/workflows/snake.yml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: hadia-anjum
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
 
 ---
 
