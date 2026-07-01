@@ -41,7 +41,6 @@ Currently joining **FlyRank AI** as a **Backend AI Engineering Intern**, where I
 - AI/Backend Engineering Internships & Junior Roles
 - Freelance Full-Stack & AI Automation Projects
 - Open Source Collaboration on AI & Developer Tools
-- Research Opportunities in Agentic AI Systems
 
 <br clear="right"/>
 
@@ -75,27 +74,10 @@ Currently joining **FlyRank AI** as a **Backend AI Engineering Intern**, where I
 
 ---
 
-## ◈ AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| **Agentic AI Systems** | ████████░░ Advanced | Multi-agent orchestration with CrewAI; role-based agent design (Reader, Writer, Logger) |
-| **Workflow Automation** | ████████░░ Advanced | n8n cloud deployments, webhook triggers, IF-node routing, multi-service pipelines |
-| **LLM Integration** | ███████░░░ Proficient | OpenAI API integration for lead scoring, classification, and content generation |
-| **Vector Databases** | ██████░░░░ Intermediate | ChromaDB for embedding storage in RAG and semantic search pipelines |
-| **AI API Design** | ███████░░░ Proficient | FastAPI-based inference endpoints, Meta Webhooks for DM automation |
-| **Prompt Engineering** | ███████░░░ Proficient | Structured system prompts, chain-of-thought reasoning, output formatting |
-
-</div>
-
----
-
 ## ◈ Featured Projects
 
 <details>
-<summary><b>⬡ Box Love — AI-Powered E-Commerce Web Platform</b></summary>
+<summary><b>⬡ Box Love — E-Commerce Web Platform</b></summary>
 <br/>
 
 > A full-stack personalized gifting e-commerce platform, founded and engineered end-to-end. Built with a custom 3D box builder, dynamic cart, and local payment integration — deployed to production and serving real customers through Instagram and the web.
@@ -105,16 +87,14 @@ Currently joining **FlyRank AI** as a **Backend AI Engineering Intern**, where I
 | Attribute | Detail |
 |-----------|--------|
 | **Stack** | React.js · Next.js · TypeScript · Tailwind CSS · Node.js · MongoDB Atlas |
-| **Architecture** | Full-stack monorepo, REST API backend, client-side state management |
-| **UX Optimization** | Mobile-first responsive layout; majority of traffic is mobile |
+| **Architecture** | Full-stack, REST API backend, mobile-first responsive layout |
 | **Payments** | JazzCash & Easypaisa integration for Pakistani market |
-| **Deployment** | Vercel (production) |
-| **Impact** | Live business platform serving real customers; founder-led product development |
+| **Deployment** | Vercel (production) — [box-love-pk.vercel.app](https://box-love-pk.vercel.app) |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hadia-anjum) |
 
 </div>
 
-This project demonstrates full-stack ownership: from MongoDB schema design and Node.js API development, to a 3D CSS-powered product configurator, to deploying a production e-commerce system on Vercel. The platform was engineered specifically for the Pakistani gifting market, with local payment flows and a mobile-first UX built from the ground up.
+This project demonstrates full-stack ownership: from MongoDB schema design and Node.js API development, to a 3D CSS-powered product configurator, to deploying a production e-commerce system on Vercel. Engineered specifically for the Pakistani gifting market with local payment flows and a mobile-first UX built from the ground up.
 
 <br/>
 </details>
@@ -133,19 +113,18 @@ This project demonstrates full-stack ownership: from MongoDB schema design and N
 | **Trigger** | Live Webhook node + Google Form input |
 | **Routing Logic** | IF-node conditional branching by lead score |
 | **Integrations** | Gmail (alerts) · Google Sheets (logging) · OpenAI (scoring) |
-| **Deployment** | n8n Cloud (workflow) · Netlify (demo site) |
-| **Impact** | Eliminates manual lead triage; production-ready freelance portfolio asset |
+| **Deployment** | n8n Cloud (workflow) · Netlify (demo landing page) |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hadia-anjum) |
 
 </div>
 
-This project showcases agentic AI pipeline design: a webhook-triggered, multi-service automation that scores leads autonomously, routes them by urgency, and logs structured data without human intervention. Designed as a commercial-grade portfolio piece for AI automation freelance pitches.
+A webhook-triggered, multi-service automation that scores leads autonomously, routes them by urgency, and logs structured data without human intervention. Designed as a production-ready portfolio piece for AI automation freelance pitches.
 
 <br/>
 </details>
 
 <details>
-<summary><b>⬡ MediCare — Offline-First Smart Health Mobile App</b></summary>
+<summary><b>⬡ MediCare — Smart Mobile Health Application</b></summary>
 <br/>
 
 > A cross-platform health-tracking mobile application built with Flutter, featuring an offline-first architecture with Hive DB local persistence, background notification handlers, and multi-screen navigation — designed for daily user engagement without network dependency.
@@ -159,12 +138,11 @@ This project showcases agentic AI pipeline design: a webhook-triggered, multi-se
 | **Storage** | Hive DB for fast local data persistence and caching |
 | **Platform** | Cross-platform (Android & iOS from single codebase) |
 | **Notifications** | Custom background notification handlers for daily engagement |
-| **Impact** | Demonstrates production-grade mobile architecture with robust offline UX |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hadia-anjum) |
 
 </div>
 
-MediCare demonstrates advanced Flutter engineering: offline-first data architecture using Hive DB, multi-screen navigation flows, and persistent background services — all within a clean, cross-platform codebase. Built with a focus on reliability and daily retention in low-connectivity environments.
+Offline-first data architecture using Hive DB, multi-screen navigation flows, and persistent background services — all within a clean, cross-platform Flutter codebase. Built with a focus on reliability and daily retention in low-connectivity environments.
 
 <br/>
 </details>
@@ -189,53 +167,23 @@ Joining FlyRank AI's engineering team to work at the intersection of large langu
 
 ---
 
-## ◈ Achievements
+## ◈ Education
 
-<div align="center">
+<div align="left">
 
-| Recognition | Details |
-|-------------|---------|
-| 🏗️ **Founder & Full-Stack Engineer** | Built and launched box.love.pk — a live e-commerce business serving real customers |
-| 🤖 **Agentic AI Developer** | Designed and deployed production n8n + CrewAI multi-agent systems |
-| 📱 **Cross-Platform Mobile Engineer** | Shipped offline-first Flutter health app with background services |
-| 🌐 **Production Deployment** | Multiple projects live on Vercel and Netlify with real users |
-| 🎓 **Academic Excellence** | 6th Semester BSSE at National Textile University, Faisalabad |
-| 💼 **Incoming AI Intern** | Secured Backend AI Engineering Internship at FlyRank AI |
+### `▸` Bachelor of Science in Software Engineering &nbsp;·&nbsp; **National Textile University, Faisalabad**
+![Status](https://img.shields.io/badge/6th%20Semester-In%20Progress-7C3AED?style=flat-square)
+![Graduation](https://img.shields.io/badge/Expected%20Graduation-2027-4F46E5?style=flat-square)
 
-</div>
+**Core Coursework:**
 
----
-
-## ◈ Certifications
-
-<div align="center">
-
-**AI & Automation**
-
-![n8n](https://img.shields.io/badge/n8n%20Workflow%20Automation-Advanced%20Practitioner-7C3AED?style=for-the-badge&logo=n8n&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-LLM%20Integration-4F46E5?style=for-the-badge&logo=openai&logoColor=white)
-
-**Mobile & Frontend**
-
-![Flutter](https://img.shields.io/badge/Flutter%20SDK-Cross--Platform%20Development-6D28D9?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React%20%26%20Next.js-Production%20Development-8B5CF6?style=for-the-badge&logo=react&logoColor=white)
-
-**Backend & Database**
-
-![MongoDB](https://img.shields.io/badge/MongoDB%20Atlas-Production%20Deployments-7C3AED?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-Backend%20Integration-4F46E5?style=for-the-badge&logo=firebase&logoColor=white)
-
-</div>
-
----
-
-## ◈ Coding Profiles
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-hadia__anjum-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/hadia-anjum)
-[![HackerRank](https://img.shields.io/badge/HackerRank-hadia__anjum-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://hackerrank.com/hadia-anjum)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-hadia__anjum-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/hadia-anjum)
+![SE](https://img.shields.io/badge/Software%20Engineering-6D28D9?style=flat-square)
+![Mobile](https://img.shields.io/badge/Mobile%20App%20Development-7C3AED?style=flat-square)
+![Web](https://img.shields.io/badge/Web%20Engineering-4F46E5?style=flat-square)
+![Architecture](https://img.shields.io/badge/Software%20Architecture-8B5CF6?style=flat-square)
+![DBMS](https://img.shields.io/badge/Database%20Management-6366F1?style=flat-square)
+![OS](https://img.shields.io/badge/Operating%20Systems-7C3AED?style=flat-square)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4F46E5?style=flat-square)
 
 </div>
 
@@ -284,33 +232,33 @@ Joining FlyRank AI's engineering team to work at the intersection of large langu
 
 </div>
 
----
-
-## ◈ Current Focus
+> **Setup:** To activate the snake, create `.github/workflows/snake.yml` in your profile repo with the content below, then push. It will auto-regenerate every day.
 
 ```yaml
-current_focus:
-  learning:
-    - Advanced CrewAI agent orchestration patterns
-    - LLM fine-tuning and RAG pipeline optimization
-    - Backend AI system design at FlyRank AI
-    - System design for scalable distributed services
+# .github/workflows/snake.yml
+name: Generate Snake Animation
 
-  building:
-    - InstaSales AI: Instagram DM automation with CrewAI + FastAPI + Meta Webhooks
-    - Job Board platform with AI-powered resume screening pipeline
-    - Portfolio-grade AI automation projects for freelance positioning
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-  exploring:
-    - Vector database architectures (ChromaDB, Pinecone)
-    - Multi-modal AI integration in production pipelines
-    - Open-source LLM deployment and self-hosted inference
-
-  open_to:
-    - Backend AI Engineering roles and internships
-    - Freelance AI automation and full-stack projects
-    - Open source contributions in AI developer tooling
-    - Research collaboration on agentic AI systems
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: hadia-anjum
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
 ---
